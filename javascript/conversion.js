@@ -12,7 +12,6 @@ let q=Number(p)
 console.log(typeof q);
 console.log(q);
 
-
 let x=""
 console.log(typeof x)
 console.log(x)
@@ -20,14 +19,12 @@ let y = Boolean(x)
 console.log(typeof y)
 console.log(y)
 
-
 let e="xyz"
 console.log(typeof e)
 console.log(e)
 let f = Boolean(e)
 console.log(typeof f)
 console.log(f)
-
 
 
 let z=0
@@ -43,6 +40,3 @@ console.log(m)
 let n= Boolean(m)
 console.log(typeof n)
 console.log(n)
-
-
-
